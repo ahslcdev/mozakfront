@@ -1,0 +1,26 @@
+body {
+  background-color: #f1f1f1 !important;
+  font-family: 'Nunito', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, .card-title, .modal-title {
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 600;
+}
+
+.btn-primary {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+  border-radius: 9999px !important;
+  padding: 0.5rem 1.25rem;
+}
+
+.btn-primary:hover {
+  background-color: #333333 !important;
+  border-color: #333333 !important;
+}
+
+.btn {
+  border-radius: 9999px !important;
+  padding: 0.5rem 1.25rem;
+}
